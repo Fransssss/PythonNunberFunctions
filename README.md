@@ -1,4 +1,4 @@
-# PythonNunberFunctions
+# PythonMathNumberFunction
 Basic math functions with python
 
 Example Output
